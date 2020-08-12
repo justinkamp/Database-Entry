@@ -1,4 +1,4 @@
-# MS3Challenge
+# Database Entry
 The purpose for this project is to allow our company "X" to easily and efficiently add data to their database for easy and convenient querying. 
 
 The first thing to do before running the app is make sure the the dataset you want to use is first a .CSV filetype and is placed withing the documents folder of your computer. Next once the code is run simply type out the name of you dataset (without the file type i.e. dataset.csv would be written as dataset).
